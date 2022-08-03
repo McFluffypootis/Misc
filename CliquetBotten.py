@@ -1,5 +1,7 @@
 #Cliquet botten
 '''
+#note this bot may no longer work
+
 Features:
 help: shows command instructions
 gme: show current price of GME stock and volume (also if its aftermarket or not)
