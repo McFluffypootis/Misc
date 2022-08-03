@@ -1,6 +1,6 @@
 #Cliquet botten
 '''
-#note this bot may no longer work
+#note this bot may no longer work please be cautious
 
 Features:
 help: shows command instructions
